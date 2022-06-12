@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf5392aa.css",
+    "main.js": "/static/js/main.c12f9d45.js",
+    "static/media/mountain-bike.png": "/static/media/mountain-bike.cc032145174589045e92.png",
+    "static/media/images.png": "/static/media/images.56f4c3394d1fec3cb16b.png",
+    "static/media/katie-zaferes.png": "/static/media/katie-zaferes.3a3434e3f5632d7c8f76.png",
+    "static/media/wedding.png": "/static/media/wedding.cc36ce403c2a7db00380.png",
+    "index.html": "/index.html",
+    "main.cf5392aa.css.map": "/static/css/main.cf5392aa.css.map",
+    "main.c12f9d45.js.map": "/static/js/main.c12f9d45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf5392aa.css",
+    "static/js/main.c12f9d45.js"
+  ]
+}
