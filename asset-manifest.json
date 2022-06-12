@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/scrimba-airbnb-clone/static/css/main.cf5392aa.css",
-    "main.js": "/scrimba-airbnb-clone/static/js/main.a18894ce.js",
+    "main.js": "/scrimba-airbnb-clone/static/js/main.b03d15e8.js",
     "static/media/mountain-bike.png": "/scrimba-airbnb-clone/static/media/mountain-bike.cc032145174589045e92.png",
     "static/media/images.png": "/scrimba-airbnb-clone/static/media/images.56f4c3394d1fec3cb16b.png",
     "static/media/katie-zaferes.png": "/scrimba-airbnb-clone/static/media/katie-zaferes.3a3434e3f5632d7c8f76.png",
     "static/media/wedding.png": "/scrimba-airbnb-clone/static/media/wedding.cc36ce403c2a7db00380.png",
     "index.html": "/scrimba-airbnb-clone/index.html",
     "main.cf5392aa.css.map": "/scrimba-airbnb-clone/static/css/main.cf5392aa.css.map",
-    "main.a18894ce.js.map": "/scrimba-airbnb-clone/static/js/main.a18894ce.js.map"
+    "main.b03d15e8.js.map": "/scrimba-airbnb-clone/static/js/main.b03d15e8.js.map"
   },
   "entrypoints": [
     "static/css/main.cf5392aa.css",
-    "static/js/main.a18894ce.js"
+    "static/js/main.b03d15e8.js"
   ]
 }
