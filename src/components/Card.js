@@ -16,7 +16,7 @@ function Card(props) {
       {props.location === "online" && (
         <div className="card--badge">Sold Out</div>
       )}
-      <img src={src} alt="Katie Zaferes" className="card--image" />
+      <img src={src} alt={props.title} className="card--image" />
       <div className="card--stats">
         <img src={star} alt="Stars" className="card--star" />
         <span className="card--rating">{props.stats.rating}</span>
